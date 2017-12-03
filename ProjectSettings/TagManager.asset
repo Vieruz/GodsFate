@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Powers
+  - Grounds
+  - Humans
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - GroundLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1117429683
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Buildings
+    uniqueID: 1842582283
+    locked: 0
+  - name: Units
+    uniqueID: 3350139609
+    locked: 0
+  - name: Powers
+    uniqueID: 1098391067
+    locked: 0
