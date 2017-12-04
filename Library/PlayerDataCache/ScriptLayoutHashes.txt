@@ -75,7 +75,7 @@ c63db43c730fa2cbb8ca07de15898cb6 UnityEngine.UI.dll:UnityEngine.UI.Toggle
 f61c0793411f10cf5fbfa1473fef5ef2 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 86d36c43c53541d667100dc90b89cfba UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 1b8c02d0aa82fbf036a2b9b2d713eec3 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
-6b9c634a232829d33f5d8390425f90c8 Assembly-CSharp.dll:.Player
+9e1c7cba83e61967eda6cd6412ea16e1 Assembly-CSharp.dll:.Player
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 970a95104359198fe1a98ef48655de8c UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 8144169769d51429c4aedc8b0f92d47b UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -115,6 +115,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 c36afce507eae1daac1ae8f98bd03eab Assembly-CSharp.dll:.House
 5704b9a4c1f204bd318b4901b3e80ae3 Assembly-CSharp.dll:.ProgressiveText
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GameController
+da75ec765176c072603fabb4320ac7ea Assembly-CSharp.dll:.Options
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -141,7 +142,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 d8931246e7c8cb44db59214b2ec26a28 Assembly-CSharp.dll:.BoardManager
+4c123696d6a38f770880600c3b74e2f0 Assembly-CSharp.dll:.Power
 71a90520f732a4ea94e02455de65963f Assembly-CSharp.dll:.HumanMovement
 3bbcb4f6e60411007cf0588dac1fe6e4 Assembly-CSharp.dll:.Human
-da75ec765176c072603fabb4320ac7ea Assembly-CSharp.dll:.Options
-4c123696d6a38f770880600c3b74e2f0 Assembly-CSharp.dll:.Power
+4e7f3ee8af46054ebdb64391a2585baf Assembly-CSharp.dll:.ScoreText

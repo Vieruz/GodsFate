@@ -22,6 +22,8 @@ public class Player : MonoBehaviour {
     public GameObject actionButtons;
     public GameObject[] powersPrefabs;
 
+    public TextAsset scoreFile;
+
     const int AIR_INDEX = 0;
     const int FIRE_INDEX = 1;
     const int EARTH_INDEX = 2;
@@ -171,6 +173,11 @@ public class Player : MonoBehaviour {
         {
             if(v <= 0)
             {
+                if(followers > PlayerPrefs.GetInt("highscore"))
+                {
+                    PlayerPrefs.SetInt("highscore", followers);
+                    PlayerPrefs.Save();
+                }
                 gc.LaunchEndingScene();
             }
         }

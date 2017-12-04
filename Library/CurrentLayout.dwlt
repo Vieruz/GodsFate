@@ -107,7 +107,7 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 713, y: 492}
+  m_MinSize: {x: 711, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
   controlID: 140
@@ -131,10 +131,10 @@ MonoBehaviour:
     y: 0
     width: 885
     height: 947
-  m_MinSize: {x: 202, y: 442}
-  m_MaxSize: {x: 4002, y: 8042}
+  m_MinSize: {x: 200, y: 321}
+  m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 54
+  controlID: 34
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -153,15 +153,15 @@ MonoBehaviour:
     y: 0
     width: 885
     height: 339
-  m_MinSize: {x: 202, y: 221}
+  m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 14}
+  m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 14}
   - {fileID: 15}
   - {fileID: 16}
   - {fileID: 17}
-  m_Selected: 0
+  m_Selected: 2
   m_LastSelected: 1
 --- !u!114 &8
 MonoBehaviour:
@@ -181,8 +181,8 @@ MonoBehaviour:
     y: 339
     width: 885
     height: 608
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -214,7 +214,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 100
+  controlID: 76
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -484,12 +484,12 @@ MonoBehaviour:
     - {fileID: 1107923047357713456, guid: 20466e94d1800774e925c5266540b3b9, type: 2}
     m_ValueSerializationHelper:
     - {x: 475.6, y: 246.40001}
-    - {x: 475.6, y: 266.40002}
+    - {x: 375.80002, y: 98.600006}
     - {x: 475.6, y: 246.40001}
     - {x: 724.7999, y: 117}
     - {x: 651.7999, y: 227.59998}
     - {x: 780.7999, y: 237.59998}
-    - {x: 647.80005, y: 170.79999}
+    - {x: 375.80002, y: 78.600006}
     - {x: 647.80005, y: 170.79999}
     - {x: 651.7999, y: 227.59998}
     - {x: 651.7999, y: 227.59998}
@@ -689,9 +689,9 @@ MonoBehaviour:
     height: 380
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 58010000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: a6fbffff00000000
+    m_ExpandedIDs: 0427fafff027faff1229faff1629faff1e29faffb431faffa032faffc233faffc633faffce33faff2c55feff36f7ffffa6fbffff00000000f62b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -752,19 +752,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Resources
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Resources
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Git\GodsFate
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3c270000
-    m_LastClickedID: 10044
-    m_ExpandedIDs: 000000003c2700009c270000a827000000ca9a3bffffff7f
+    m_SelectedIDs: 8c270000
+    m_LastClickedID: 10124
+    m_ExpandedIDs: 000000003c27000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -819,7 +819,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 0a060000840700003e0700005cecffffca1c0000be1e0000c2adffffd81b0000dc1b0000e21b0000fe270000002c0000622200006a260000ce210000cc210000d0210000f6210000024fffff6e23ffff3ccdfdff0c220000322200001a2200004484ffff06220000462200001e2200000a220000e8210000f4210000de210000e22100001222000000240000ee230000fa230000502400007c3afeffe238feff0c7a0300d6230000fe2500000c2c0000d62600001e320000922800005825000090320000e02700003e2500006a25000082320000143800006477feff8a5b0000305e000000000000e444000030740000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
