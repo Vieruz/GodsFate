@@ -1,4 +1,4 @@
-WindowsStandalone
+WebGL
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 970a95104359198fe1a98ef48655de8c UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 8144169769d51429c4aedc8b0f92d47b UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -43,6 +43,7 @@ c63db43c730fa2cbb8ca07de15898cb6 UnityEngine.UI.dll:UnityEngine.UI.Toggle
 f61c0793411f10cf5fbfa1473fef5ef2 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 86d36c43c53541d667100dc90b89cfba UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 1b8c02d0aa82fbf036a2b9b2d713eec3 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
+4e7f3ee8af46054ebdb64391a2585baf Assembly-CSharp.dll:.ScoreText
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 49cd62a578efc0a599b810a2b66cd49c UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -145,4 +146,3 @@ d8931246e7c8cb44db59214b2ec26a28 Assembly-CSharp.dll:.BoardManager
 4c123696d6a38f770880600c3b74e2f0 Assembly-CSharp.dll:.Power
 71a90520f732a4ea94e02455de65963f Assembly-CSharp.dll:.HumanMovement
 3bbcb4f6e60411007cf0588dac1fe6e4 Assembly-CSharp.dll:.Human
-4e7f3ee8af46054ebdb64391a2585baf Assembly-CSharp.dll:.ScoreText
